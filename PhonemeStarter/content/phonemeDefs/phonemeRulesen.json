@@ -1,0 +1,58 @@
+﻿[
+  {
+    "CONTEXT": "!",
+    "TITLE": "NON ALPHABETIC",
+    "REGEX": "[^A-Z]"
+  },
+  {
+    "CONTEXT": "%",
+    "TITLE": "VOWEL",
+    "REGEX": "[AEIOU]"
+  },
+  {
+    "CONTEXT": "#",
+    "TITLE": "VOWEL SEQUENCE",
+    "REGEX": "[AEIOU]+"
+  },
+  {
+    "CONTEXT": "+",
+    "TITLE": "FRONTVOWELS",
+    "REGEX": "[EIY]"
+  },
+  {
+    "CONTEXT": "^",
+    "TITLE": "CONSONANT",
+    "REGEX": "[BCDFGHJKLMNPQRSTVWXZ]"
+  },
+  {
+    "CONTEXT": ":",
+    "TITLE": "CONSONANT SEQUENCE",
+    "REGEX": "[BCDFGHJKLMNPQRSTVWXZ]+"
+  },
+  {
+    "CONTEXT": ".",
+    "TITLE": "VOICED CONSONANT",
+    "REGEX": "[BDGJLMNRVWZ]"
+  },
+  {
+    "CONTEXT": "$",
+    "TITLE": "WORD ENDING",
+    "REGEX": "(ING|ELY|ED|ER|ES|E)"
+  },
+  {
+    "CONTEXT": "&",
+    "TITLE": "SIBILANT",
+    "REGEX": "(CH|SH|TH|C|G|J|S|X|Z)"
+  },
+  {
+    "CONTEXT": "@",
+    "TITLE": "U RULE CONSONANT",
+    "REGEX": "(CH|SH|TH|D|J|L|N|R|S|T|Z)"
+  },
+  {
+    "CONTEXT": "",
+    "TITLE": "ANY",
+    "NOT": FALSE,
+    "TOKENS": ""
+  }
+]

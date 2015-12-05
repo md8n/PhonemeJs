@@ -1,0 +1,3565 @@
+﻿[
+  {
+    "index": "A399AUGUST",
+    "pre": "",
+    "center": "AUGUST",
+    "post": "",
+    "translation": "aw aw k g uh s t"
+  },
+  {
+    "index": "A488ATION",
+    "pre": ".",
+    "center": "ATION",
+    "post": "#",
+    "translation": "ae sch uh n"
+  },
+  {
+    "index": "A498ABOUT",
+    "pre": "",
+    "center": "ABOUT",
+    "post": "!",
+    "translation": "uh1 b ah w t"
+  },
+  {
+    "index": "A499ACTIV",
+    "pre": "",
+    "center": "ACTIV",
+    "post": "",
+    "translation": "ae k t i v"
+  },
+  {
+    "index": "A499AGAIN",
+    "pre": "",
+    "center": "AGAIN",
+    "post": "",
+    "translation": "uh1 k g eh n"
+  },
+  {
+    "index": "A499APRIL",
+    "pre": "",
+    "center": "APRIL",
+    "post": "",
+    "translation": "a ie p er uh1 lf"
+  },
+  {
+    "index": "A579ABLE",
+    "pre": "!:",
+    "center": "ABLE",
+    "post": "",
+    "translation": "a ie b lf"
+  },
+  {
+    "index": "A579ALLY",
+    "pre": "#:",
+    "center": "ALLY",
+    "post": "",
+    "translation": "lf ie"
+  },
+  {
+    "index": "A589AREA",
+    "pre": "!",
+    "center": "AREA",
+    "post": "",
+    "translation": "eh1 er ie uh1"
+  },
+  {
+    "index": "A589AUGH",
+    "pre": "^",
+    "center": "AUGH",
+    "post": "",
+    "translation": "ae f"
+  },
+  {
+    "index": "A599ABLE",
+    "pre": "",
+    "center": "ABLE",
+    "post": "",
+    "translation": "uh1 b lf"
+  },
+  {
+    "index": "A599ANSW",
+    "pre": "",
+    "center": "ANSW",
+    "post": "",
+    "translation": "ae n s"
+  },
+  {
+    "index": "A677ABL",
+    "pre": "EN",
+    "center": "ABL",
+    "post": "$!",
+    "translation": "a ie b lf"
+  },
+  {
+    "index": "A678ALS",
+    "pre": "#:",
+    "center": "ALS",
+    "post": "!",
+    "translation": "lf z"
+  },
+  {
+    "index": "A688AGO",
+    "pre": "!",
+    "center": "AGO",
+    "post": "!",
+    "translation": "uh1 k g o w"
+  },
+  {
+    "index": "A688ARE",
+    "pre": "!",
+    "center": "ARE",
+    "post": "!",
+    "translation": "aw er"
+  },
+  {
+    "index": "A689ANY",
+    "pre": ":",
+    "center": "ANY",
+    "post": "",
+    "translation": "eh n ie"
+  },
+  {
+    "index": "A689ARR",
+    "pre": "!",
+    "center": "ARR",
+    "post": "",
+    "translation": "uh1 er"
+  },
+  {
+    "index": "A698ANG",
+    "pre": "",
+    "center": "ANG",
+    "post": "+",
+    "translation": "a ie n d j"
+  },
+  {
+    "index": "A699AIR",
+    "pre": "",
+    "center": "AIR",
+    "post": "",
+    "translation": "eh er"
+  },
+  {
+    "index": "A699ALK",
+    "pre": "",
+    "center": "ALK",
+    "post": "",
+    "translation": "ah k"
+  },
+  {
+    "index": "A699ARR",
+    "pre": "",
+    "center": "ARR",
+    "post": "",
+    "translation": "ae er"
+  },
+  {
+    "index": "A778AG",
+    "pre": "#:",
+    "center": "AG",
+    "post": "E",
+    "translation": "i d j"
+  },
+  {
+    "index": "A778AL",
+    "pre": "#:",
+    "center": "AL",
+    "post": "!",
+    "translation": "lf"
+  },
+  {
+    "index": "A778AR",
+    "pre": "!:",
+    "center": "AR",
+    "post": "!",
+    "translation": "aw er"
+  },
+  {
+    "index": "A788AL",
+    "pre": "!",
+    "center": "AL",
+    "post": "#",
+    "translation": "uh1 lf"
+  },
+  {
+    "index": "A788AR",
+    "pre": "!",
+    "center": "AR",
+    "post": "O",
+    "translation": "uh1 er"
+  },
+  {
+    "index": "A788AS",
+    "pre": "^",
+    "center": "AS",
+    "post": "#",
+    "translation": "a ie s"
+  },
+  {
+    "index": "A798AL",
+    "pre": "",
+    "center": "AL",
+    "post": "^",
+    "translation": "ah lf"
+  },
+  {
+    "index": "A798AR",
+    "pre": "",
+    "center": "AR",
+    "post": "!",
+    "translation": "er"
+  },
+  {
+    "index": "A799AI",
+    "pre": "",
+    "center": "AI",
+    "post": "",
+    "translation": "a ie"
+  },
+  {
+    "index": "A799AR",
+    "pre": "",
+    "center": "AR",
+    "post": "",
+    "translation": "aw er"
+  },
+  {
+    "index": "A799AU",
+    "pre": "",
+    "center": "AU",
+    "post": "",
+    "translation": "ah"
+  },
+  {
+    "index": "A799AW",
+    "pre": "",
+    "center": "AW",
+    "post": "",
+    "translation": "ah"
+  },
+  {
+    "index": "A799AY",
+    "pre": "",
+    "center": "AY",
+    "post": "",
+    "translation": "a ie"
+  },
+  {
+    "index": "A876A",
+    "pre": "!:",
+    "center": "A",
+    "post": "^#!",
+    "translation": "a ie"
+  },
+  {
+    "index": "A885A",
+    "pre": "!",
+    "center": "A",
+    "post": "VAIL",
+    "translation": "uh1"
+  },
+  {
+    "index": "A886A",
+    "pre": "C",
+    "center": "A",
+    "post": "PAB",
+    "translation": "a ie"
+  },
+  {
+    "index": "A887A",
+    "pre": "!",
+    "center": "A",
+    "post": "BE",
+    "translation": "uh1"
+  },
+  {
+    "index": "A887A",
+    "pre": "!",
+    "center": "A",
+    "post": "BO",
+    "translation": "uh1"
+  },
+  {
+    "index": "A887A",
+    "pre": "!",
+    "center": "A",
+    "post": "BR",
+    "translation": "uh1"
+  },
+  {
+    "index": "A888A",
+    "pre": "!",
+    "center": "A",
+    "post": "!",
+    "translation": "a ie"
+  },
+  {
+    "index": "A895A",
+    "pre": "",
+    "center": "A",
+    "post": "^+:#",
+    "translation": "ae"
+  },
+  {
+    "index": "A896A",
+    "pre": "",
+    "center": "A",
+    "post": "^+#",
+    "translation": "a ie"
+  },
+  {
+    "index": "A896A",
+    "pre": "",
+    "center": "A",
+    "post": "^$!",
+    "translation": "a ie"
+  },
+  {
+    "index": "A897A",
+    "pre": "",
+    "center": "A",
+    "post": "WA",
+    "translation": "uh1"
+  },
+  {
+    "index": "A898A",
+    "pre": "",
+    "center": "A",
+    "post": "!",
+    "translation": "uh1"
+  },
+  {
+    "index": "A899A",
+    "pre": "",
+    "center": "A",
+    "post": "",
+    "translation": "ae"
+  },
+  {
+    "index": "B488BRING",
+    "pre": "!",
+    "center": "BRING",
+    "post": "!",
+    "translation": "b er e ng"
+  },
+  {
+    "index": "B488BRING",
+    "pre": "!",
+    "center": "BRING",
+    "post": "$",
+    "translation": "b er e ng"
+  },
+  {
+    "index": "B499BEING",
+    "pre": "",
+    "center": "BEING",
+    "post": "",
+    "translation": "b e i ng"
+  },
+  {
+    "index": "B588BEEN",
+    "pre": "!",
+    "center": "BEEN",
+    "post": "!",
+    "translation": "b i n"
+  },
+  {
+    "index": "B588BOTH",
+    "pre": "!",
+    "center": "BOTH",
+    "post": "!",
+    "translation": "b o u th"
+  },
+  {
+    "index": "B589BULL",
+    "pre": "!",
+    "center": "BULL",
+    "post": "",
+    "translation": "b oo lf"
+  },
+  {
+    "index": "B599BUIL",
+    "pre": "",
+    "center": "BUIL",
+    "post": "",
+    "translation": "b i l"
+  },
+  {
+    "index": "B688BUS",
+    "pre": "!",
+    "center": "BUS",
+    "post": "#",
+    "translation": "b i z"
+  },
+  {
+    "index": "B787BE",
+    "pre": "!",
+    "center": "BE",
+    "post": "^#",
+    "translation": "b i"
+  },
+  {
+    "index": "B888B",
+    "pre": "!",
+    "center": "B",
+    "post": "!",
+    "translation": "b e ie"
+  },
+  {
+    "index": "B889B",
+    "pre": "B",
+    "center": "B",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "B899B",
+    "pre": "",
+    "center": "B",
+    "post": "",
+    "translation": "b"
+  },
+  {
+    "index": "C289CONTROL",
+    "pre": "!",
+    "center": "CONTROL",
+    "post": "",
+    "translation": "k uh2 n t er o lf"
+  },
+  {
+    "index": "C399COPIED",
+    "pre": "",
+    "center": "COPIED",
+    "post": "",
+    "translation": "k ah p ie d"
+  },
+  {
+    "index": "C587CHAR",
+    "pre": "!",
+    "center": "CHAR",
+    "post": "AC",
+    "translation": "k eh er"
+  },
+  {
+    "index": "C697COM",
+    "pre": "",
+    "center": "COM",
+    "post": "$!",
+    "translation": "k uh2 m"
+  },
+  {
+    "index": "C778CI",
+    "pre": "!S",
+    "center": "CI",
+    "post": "#",
+    "translation": "s ah1 e"
+  },
+  {
+    "index": "C779CH",
+    "pre": "^E",
+    "center": "CH",
+    "post": "",
+    "translation": "k"
+  },
+  {
+    "index": "C787CH",
+    "pre": "!",
+    "center": "CH",
+    "post": "^#",
+    "translation": "k"
+  },
+  {
+    "index": "C797CI",
+    "pre": "",
+    "center": "CI",
+    "post": "EN",
+    "translation": "sch"
+  },
+  {
+    "index": "C798CI",
+    "pre": "",
+    "center": "CI",
+    "post": "A",
+    "translation": "sch"
+  },
+  {
+    "index": "C798CI",
+    "pre": "",
+    "center": "CI",
+    "post": "O",
+    "translation": "sch"
+  },
+  {
+    "index": "C799CH",
+    "pre": "",
+    "center": "CH",
+    "post": "",
+    "translation": "t sch"
+  },
+  {
+    "index": "C799CK",
+    "pre": "",
+    "center": "CK",
+    "post": "",
+    "translation": "k"
+  },
+  {
+    "index": "C888C",
+    "pre": "!",
+    "center": "C",
+    "post": "!",
+    "translation": "s e ie"
+  },
+  {
+    "index": "C898C",
+    "pre": "",
+    "center": "C",
+    "post": "+",
+    "translation": "s"
+  },
+  {
+    "index": "C899C",
+    "pre": "",
+    "center": "C",
+    "post": "",
+    "translation": "k"
+  },
+  {
+    "index": "D489DOING",
+    "pre": "!",
+    "center": "DOING",
+    "post": "",
+    "translation": "d u i ng"
+  },
+  {
+    "index": "D497DEFIN",
+    "pre": "",
+    "center": "DEFIN",
+    "post": "$!",
+    "translation": "d e f ah1 ie n"
+  },
+  {
+    "index": "D588DONE",
+    "pre": "!",
+    "center": "DONE",
+    "post": "!",
+    "translation": "d uh3 n"
+  },
+  {
+    "index": "D589DING",
+    "pre": "!",
+    "center": "DING",
+    "post": "",
+    "translation": "d e ng"
+  },
+  {
+    "index": "D589DOES",
+    "pre": "!",
+    "center": "DOES",
+    "post": "",
+    "translation": "d uh3 z"
+  },
+  {
+    "index": "D678DED",
+    "pre": "#:",
+    "center": "DED",
+    "post": "!",
+    "translation": "d i d"
+  },
+  {
+    "index": "D689DOW",
+    "pre": "!",
+    "center": "DOW",
+    "post": "",
+    "translation": "d ah1 w"
+  },
+  {
+    "index": "D787DE",
+    "pre": "!",
+    "center": "DE",
+    "post": "^#",
+    "translation": "d i"
+  },
+  {
+    "index": "D787DU",
+    "pre": "E",
+    "center": "DU",
+    "post": "CA",
+    "translation": "d j uh1"
+  },
+  {
+    "index": "D788DO",
+    "pre": "!",
+    "center": "DO",
+    "post": "!",
+    "translation": "d u"
+  },
+  {
+    "index": "D798DU",
+    "pre": "",
+    "center": "DU",
+    "post": "A",
+    "translation": "d j u"
+  },
+  {
+    "index": "D868D",
+    "pre": ":^E",
+    "center": "D",
+    "post": "!",
+    "translation": "t"
+  },
+  {
+    "index": "D878D",
+    "pre": ".E",
+    "center": "D",
+    "post": "!",
+    "translation": "d"
+  },
+  {
+    "index": "D888D",
+    "pre": "!",
+    "center": "D",
+    "post": "!",
+    "translation": "d e ie"
+  },
+  {
+    "index": "D889D",
+    "pre": "D",
+    "center": "D",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "D899D",
+    "pre": "",
+    "center": "D",
+    "post": "",
+    "translation": "d"
+  },
+  {
+    "index": "E479EMENT",
+    "pre": "#:",
+    "center": "EMENT",
+    "post": "",
+    "translation": "m eh n t"
+  },
+  {
+    "index": "E589EVEN",
+    "pre": "^",
+    "center": "EVEN",
+    "post": "",
+    "translation": "eh v eh n"
+  },
+  {
+    "index": "E589EVEN",
+    "pre": "!",
+    "center": "EVEN",
+    "post": "",
+    "translation": "e v eh n"
+  },
+  {
+    "index": "E599EARN",
+    "pre": "",
+    "center": "EARN",
+    "post": "",
+    "translation": "er n"
+  },
+  {
+    "index": "E599EFUL",
+    "pre": "",
+    "center": "EFUL",
+    "post": "",
+    "translation": "f oo lf"
+  },
+  {
+    "index": "E599EIGH",
+    "pre": "",
+    "center": "EIGH",
+    "post": "",
+    "translation": "a ie"
+  },
+  {
+    "index": "E678ELY",
+    "pre": "#:",
+    "center": "ELY",
+    "post": "!",
+    "translation": "l e"
+  },
+  {
+    "index": "E688EAR",
+    "pre": "!",
+    "center": "EAR",
+    "post": "^",
+    "translation": "er"
+  },
+  {
+    "index": "E689EYE",
+    "pre": "!",
+    "center": "EYE",
+    "post": "",
+    "translation": "ah1 e"
+  },
+  {
+    "index": "E698ERI",
+    "pre": "",
+    "center": "ERI",
+    "post": "#",
+    "translation": "ie er ie"
+  },
+  {
+    "index": "E699EAD",
+    "pre": "",
+    "center": "EAD",
+    "post": "",
+    "translation": "eh d"
+  },
+  {
+    "index": "E699ERI",
+    "pre": "",
+    "center": "ERI",
+    "post": "",
+    "translation": "eh er i"
+  },
+  {
+    "index": "E768ES",
+    "pre": "#:&",
+    "center": "ES",
+    "post": "!",
+    "translation": "i z"
+  },
+  {
+    "index": "E778EA",
+    "pre": "#:",
+    "center": "EA",
+    "post": "!",
+    "translation": "ie uh2"
+  },
+  {
+    "index": "E778ER",
+    "pre": "#:",
+    "center": "ER",
+    "post": "#",
+    "translation": "er"
+  },
+  {
+    "index": "E788ED",
+    "pre": "#",
+    "center": "ED",
+    "post": "!",
+    "translation": "d"
+  },
+  {
+    "index": "E788EU",
+    "pre": "N",
+    "center": "EU",
+    "post": "T",
+    "translation": "u u1"
+  },
+  {
+    "index": "E789EW",
+    "pre": "@",
+    "center": "EW",
+    "post": "",
+    "translation": "u"
+  },
+  {
+    "index": "E797EA",
+    "pre": "",
+    "center": "EA",
+    "post": "SU",
+    "translation": "eh"
+  },
+  {
+    "index": "E797ER",
+    "pre": "",
+    "center": "ER",
+    "post": "R#",
+    "translation": "eh er"
+  },
+  {
+    "index": "E797EV",
+    "pre": "",
+    "center": "EV",
+    "post": "ER",
+    "translation": "eh v"
+  },
+  {
+    "index": "E798ER",
+    "pre": "",
+    "center": "ER",
+    "post": "#",
+    "translation": "eh er"
+  },
+  {
+    "index": "E799EA",
+    "pre": "",
+    "center": "EA",
+    "post": "",
+    "translation": "e"
+  },
+  {
+    "index": "E799EE",
+    "pre": "",
+    "center": "EE",
+    "post": "",
+    "translation": "e"
+  },
+  {
+    "index": "E799EI",
+    "pre": "",
+    "center": "EI",
+    "post": "",
+    "translation": "e"
+  },
+  {
+    "index": "E799ER",
+    "pre": "",
+    "center": "ER",
+    "post": "",
+    "translation": "er"
+  },
+  {
+    "index": "E799EU",
+    "pre": "",
+    "center": "EU",
+    "post": "",
+    "translation": "yi u"
+  },
+  {
+    "index": "E799EW",
+    "pre": "",
+    "center": "EW",
+    "post": "",
+    "translation": "yi u"
+  },
+  {
+    "index": "E799EY",
+    "pre": "",
+    "center": "EY",
+    "post": "",
+    "translation": "e"
+  },
+  {
+    "index": "E857E",
+    "pre": "!IMP",
+    "center": "E",
+    "post": "DA",
+    "translation": "ie"
+  },
+  {
+    "index": "E868E",
+    "pre": ":^",
+    "center": "E",
+    "post": "!",
+    "translation": ""
+  },
+  {
+    "index": "E877E",
+    "pre": "!B",
+    "center": "E",
+    "post": "TW",
+    "translation": "e"
+  },
+  {
+    "index": "E877E",
+    "pre": "#:",
+    "center": "E",
+    "post": "D!",
+    "translation": ""
+  },
+  {
+    "index": "E877E",
+    "pre": "#:",
+    "center": "E",
+    "post": "S!",
+    "translation": ""
+  },
+  {
+    "index": "E878E",
+    "pre": "#:",
+    "center": "E",
+    "post": "!",
+    "translation": ""
+  },
+  {
+    "index": "E878E",
+    "pre": "!:",
+    "center": "E",
+    "post": "!",
+    "translation": "ie"
+  },
+  {
+    "index": "E878E",
+    "pre": "#:",
+    "center": "E",
+    "post": "W",
+    "translation": ""
+  },
+  {
+    "index": "E888E",
+    "pre": "!",
+    "center": "E",
+    "post": "!",
+    "translation": "e ie"
+  },
+  {
+    "index": "E895E",
+    "pre": "",
+    "center": "E",
+    "post": "LESS",
+    "translation": ""
+  },
+  {
+    "index": "E896E",
+    "pre": "",
+    "center": "E",
+    "post": "R$!",
+    "translation": ""
+  },
+  {
+    "index": "E896E",
+    "pre": "",
+    "center": "E",
+    "post": "^$!",
+    "translation": "e"
+  },
+  {
+    "index": "E898E",
+    "pre": "",
+    "center": "E",
+    "post": "O",
+    "translation": "e"
+  },
+  {
+    "index": "E899E",
+    "pre": "",
+    "center": "E",
+    "post": "",
+    "translation": "eh"
+  },
+  {
+    "index": "F199FEBRUARY",
+    "pre": "",
+    "center": "FEBRUARY",
+    "post": "",
+    "translation": "f eh b er u eh er ie"
+  },
+  {
+    "index": "F399FRIEND",
+    "pre": "",
+    "center": "FRIEND",
+    "post": "",
+    "translation": "f er eh1 n d"
+  },
+  {
+    "index": "F489FLING",
+    "pre": "!",
+    "center": "FLING",
+    "post": "",
+    "translation": "f l i ng"
+  },
+  {
+    "index": "F499FREQU",
+    "pre": "",
+    "center": "FREQU",
+    "post": "",
+    "translation": "f er ie k w"
+  },
+  {
+    "index": "F599FOOD",
+    "pre": "",
+    "center": "FOOD",
+    "post": "",
+    "translation": "f u u1 d"
+  },
+  {
+    "index": "F688FRI",
+    "pre": "!",
+    "center": "FRI",
+    "post": "D",
+    "translation": "f r ah e"
+  },
+  {
+    "index": "F699FUL",
+    "pre": "",
+    "center": "FUL",
+    "post": "",
+    "translation": "f oo lf"
+  },
+  {
+    "index": "F888F",
+    "pre": "!",
+    "center": "F",
+    "post": "!",
+    "translation": "eh1 f"
+  },
+  {
+    "index": "F889F",
+    "pre": "F",
+    "center": "F",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "F899F",
+    "pre": "",
+    "center": "F",
+    "post": "",
+    "translation": "f"
+  },
+  {
+    "index": "G488GOING",
+    "pre": "!",
+    "center": "GOING",
+    "post": "!",
+    "translation": "k g o w e ng"
+  },
+  {
+    "index": "G499GREAT",
+    "pre": "",
+    "center": "GREAT",
+    "post": "",
+    "translation": "k g r a ie t"
+  },
+  {
+    "index": "G579GGES",
+    "pre": "SU",
+    "center": "GGES",
+    "post": "",
+    "translation": "g d j eh s"
+  },
+  {
+    "index": "G588GONE",
+    "pre": "!",
+    "center": "GONE",
+    "post": "!",
+    "translation": "g ah n"
+  },
+  {
+    "index": "G699GIV",
+    "pre": "",
+    "center": "GIV",
+    "post": "",
+    "translation": "k g i v"
+  },
+  {
+    "index": "G789GH",
+    "pre": "#",
+    "center": "GH",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "G798GE",
+    "pre": "",
+    "center": "GE",
+    "post": "T",
+    "translation": "k g eh"
+  },
+  {
+    "index": "G869G",
+    "pre": "!B#",
+    "center": "G",
+    "post": "",
+    "translation": "k g"
+  },
+  {
+    "index": "G887G",
+    "pre": "!",
+    "center": "G",
+    "post": "I^",
+    "translation": "g"
+  },
+  {
+    "index": "G888G",
+    "pre": "!",
+    "center": "G",
+    "post": "!",
+    "translation": "d j e ie"
+  },
+  {
+    "index": "G888G",
+    "pre": "D",
+    "center": "G",
+    "post": "+",
+    "translation": "j"
+  },
+  {
+    "index": "G888G",
+    "pre": "!",
+    "center": "G",
+    "post": "N",
+    "translation": "n"
+  },
+  {
+    "index": "G889G",
+    "pre": "G",
+    "center": "G",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "G889G",
+    "pre": "#",
+    "center": "G",
+    "post": "",
+    "translation": "k g"
+  },
+  {
+    "index": "G898G",
+    "pre": "",
+    "center": "G",
+    "post": "+",
+    "translation": "d j"
+  },
+  {
+    "index": "G899G",
+    "pre": "",
+    "center": "G",
+    "post": "",
+    "translation": "k g"
+  },
+  {
+    "index": "H489HEIGH",
+    "pre": "!",
+    "center": "HEIGH",
+    "post": "",
+    "translation": "h ah1 ie"
+  },
+  {
+    "index": "H589HERE",
+    "pre": "!",
+    "center": "HERE",
+    "post": "",
+    "translation": "h e er"
+  },
+  {
+    "index": "H589HOUR",
+    "pre": "!",
+    "center": "HOUR",
+    "post": "",
+    "translation": "ah1 w er"
+  },
+  {
+    "index": "H597HEAV",
+    "pre": "",
+    "center": "HEAV",
+    "post": "EN",
+    "translation": "h eh1 v"
+  },
+  {
+    "index": "H598HEAV",
+    "pre": "",
+    "center": "HEAV",
+    "post": "+",
+    "translation": "h eh1 v"
+  },
+  {
+    "index": "H689HAV",
+    "pre": "!",
+    "center": "HAV",
+    "post": "",
+    "translation": "h ae v"
+  },
+  {
+    "index": "H699HOW",
+    "pre": "",
+    "center": "HOW",
+    "post": "",
+    "translation": "h ah1 w"
+  },
+  {
+    "index": "H788HI",
+    "pre": "!",
+    "center": "HI",
+    "post": "!",
+    "translation": "h ah1 ie"
+  },
+  {
+    "index": "H788HY",
+    "pre": "!",
+    "center": "HY",
+    "post": "D",
+    "translation": "h ah1 ie"
+  },
+  {
+    "index": "H788HY",
+    "pre": "!",
+    "center": "HY",
+    "post": "G",
+    "translation": "h ah1 ie"
+  },
+  {
+    "index": "H788HY",
+    "pre": "!",
+    "center": "HY",
+    "post": "P",
+    "translation": "h ah1 ie"
+  },
+  {
+    "index": "H888H",
+    "pre": "!",
+    "center": "H",
+    "post": "!",
+    "translation": "a ie t sch"
+  },
+  {
+    "index": "H898H",
+    "pre": "",
+    "center": "H",
+    "post": "#",
+    "translation": "h"
+  },
+  {
+    "index": "H899H",
+    "pre": "",
+    "center": "H",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "I389ISLAND",
+    "pre": "!",
+    "center": "ISLAND",
+    "post": "",
+    "translation": "ah1 ie lb uh n d"
+  },
+  {
+    "index": "I589IDEA",
+    "pre": "!",
+    "center": "IDEA",
+    "post": "",
+    "translation": "ah e d e uh1"
+  },
+  {
+    "index": "I599IQUE",
+    "pre": "",
+    "center": "IQUE",
+    "post": "",
+    "translation": "ie k"
+  },
+  {
+    "index": "I668IED",
+    "pre": "#:R",
+    "center": "IED",
+    "post": "!",
+    "translation": "ie d"
+  },
+  {
+    "index": "I697IGN",
+    "pre": "",
+    "center": "IGN",
+    "post": "$!",
+    "translation": "ah1 ie n"
+  },
+  {
+    "index": "I698IED",
+    "pre": "",
+    "center": "IED",
+    "post": "!",
+    "translation": "ah1 ie d"
+  },
+  {
+    "index": "I698IFY",
+    "pre": "",
+    "center": "IFY",
+    "post": "!",
+    "translation": "i f ah ie"
+  },
+  {
+    "index": "I698IGN",
+    "pre": "",
+    "center": "IGN",
+    "post": "!",
+    "translation": "ah1 ie n"
+  },
+  {
+    "index": "I698IGN",
+    "pre": "",
+    "center": "IGN",
+    "post": "^",
+    "translation": "ah1 ie n"
+  },
+  {
+    "index": "I699IEN",
+    "pre": "",
+    "center": "IEN",
+    "post": "",
+    "translation": "ie eh n"
+  },
+  {
+    "index": "I699IER",
+    "pre": "",
+    "center": "IER",
+    "post": "",
+    "translation": "ie er"
+  },
+  {
+    "index": "I699IGH",
+    "pre": "",
+    "center": "IGH",
+    "post": "",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I699ILD",
+    "pre": "",
+    "center": "ILD",
+    "post": "",
+    "translation": "ah1 ie lf d"
+  },
+  {
+    "index": "I789IN",
+    "pre": "!",
+    "center": "IN",
+    "post": "",
+    "translation": "i n"
+  },
+  {
+    "index": "I797IS",
+    "pre": "",
+    "center": "IS",
+    "post": "$!",
+    "translation": "ah1 ie z"
+  },
+  {
+    "index": "I797IZ",
+    "pre": "",
+    "center": "IZ",
+    "post": "$!",
+    "translation": "ah1 ie z"
+  },
+  {
+    "index": "I798IE",
+    "pre": "",
+    "center": "IE",
+    "post": "T",
+    "translation": "ah1 ie eh"
+  },
+  {
+    "index": "I798IE",
+    "pre": "",
+    "center": "IE",
+    "post": "L",
+    "translation": "ie"
+  },
+  {
+    "index": "I798IN",
+    "pre": "",
+    "center": "IN",
+    "post": "D",
+    "translation": "ah1 ie n"
+  },
+  {
+    "index": "I798IR",
+    "pre": "",
+    "center": "IR",
+    "post": "#",
+    "translation": "ah1 ie er"
+  },
+  {
+    "index": "I799IE",
+    "pre": "",
+    "center": "IE",
+    "post": "",
+    "translation": "ie"
+  },
+  {
+    "index": "I799IR",
+    "pre": "",
+    "center": "IR",
+    "post": "",
+    "translation": "er"
+  },
+  {
+    "index": "I866I",
+    "pre": "#:^",
+    "center": "I",
+    "post": "^$!",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I867I",
+    "pre": "#:^",
+    "center": "I",
+    "post": "^+",
+    "translation": "i"
+  },
+  {
+    "index": "I876I",
+    "pre": ":^",
+    "center": "I",
+    "post": "^Y!",
+    "translation": "i"
+  },
+  {
+    "index": "I877I",
+    "pre": "!:",
+    "center": "I",
+    "post": "$!",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I877I",
+    "pre": "+^",
+    "center": "I",
+    "post": "^+",
+    "translation": "i"
+  },
+  {
+    "index": "I877I",
+    "pre": ":^",
+    "center": "I",
+    "post": "GI",
+    "translation": "i"
+  },
+  {
+    "index": "I878I",
+    "pre": "AD",
+    "center": "I",
+    "post": "#",
+    "translation": "ie"
+  },
+  {
+    "index": "I878I",
+    "pre": "!D",
+    "center": "I",
+    "post": "A",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I878I",
+    "pre": "PR",
+    "center": "I",
+    "post": "X!",
+    "translation": "e"
+  },
+  {
+    "index": "I886I",
+    "pre": "R",
+    "center": "I",
+    "post": "VEN",
+    "translation": "i"
+  },
+  {
+    "index": "I888I",
+    "pre": "!",
+    "center": "I",
+    "post": "!",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I888I",
+    "pre": "!",
+    "center": "I",
+    "post": "",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I895I",
+    "pre": "",
+    "center": "I",
+    "post": "^+:#",
+    "translation": "i"
+  },
+  {
+    "index": "I896I",
+    "pre": "",
+    "center": "I",
+    "post": "NAL",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I896I",
+    "pre": "",
+    "center": "I",
+    "post": "D$!",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I896I",
+    "pre": "",
+    "center": "I",
+    "post": "T$!",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I897I",
+    "pre": "",
+    "center": "I",
+    "post": "$!",
+    "translation": "ie"
+  },
+  {
+    "index": "I897I",
+    "pre": "",
+    "center": "I",
+    "post": "^+",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "I898I",
+    "pre": "",
+    "center": "I",
+    "post": "X",
+    "translation": "i"
+  },
+  {
+    "index": "I899I",
+    "pre": "",
+    "center": "I",
+    "post": "",
+    "translation": "i"
+  },
+  {
+    "index": "J299JANUARY",
+    "pre": "",
+    "center": "JANUARY",
+    "post": "",
+    "translation": "d j ae n yi u eh1 r ie"
+  },
+  {
+    "index": "J599JULY",
+    "pre": "",
+    "center": "JULY",
+    "post": "",
+    "translation": "d j u lb ah1 ie"
+  },
+  {
+    "index": "J888J",
+    "pre": "!",
+    "center": "J",
+    "post": "!",
+    "translation": "d j a ie"
+  },
+  {
+    "index": "J889J",
+    "pre": "D",
+    "center": "J",
+    "post": "",
+    "translation": "j"
+  },
+  {
+    "index": "J899J",
+    "pre": "",
+    "center": "J",
+    "post": "",
+    "translation": "d j"
+  },
+  {
+    "index": "K588KING",
+    "pre": "!",
+    "center": "KING",
+    "post": "!",
+    "translation": "k i ng"
+  },
+  {
+    "index": "K888K",
+    "pre": "!",
+    "center": "K",
+    "post": "!",
+    "translation": "k a ie"
+  },
+  {
+    "index": "K888K",
+    "pre": "!",
+    "center": "K",
+    "post": "N",
+    "translation": ""
+  },
+  {
+    "index": "K899K",
+    "pre": "",
+    "center": "K",
+    "post": "",
+    "translation": "k"
+  },
+  {
+    "index": "L399LISTEN",
+    "pre": "",
+    "center": "LISTEN",
+    "post": "",
+    "translation": "lb i s uh n"
+  },
+  {
+    "index": "L489LABEL",
+    "pre": "!",
+    "center": "LABEL",
+    "post": "",
+    "translation": "lb a ie b lf"
+  },
+  {
+    "index": "L588LOST",
+    "pre": "!",
+    "center": "LOST",
+    "post": "!",
+    "translation": "lb ah s t"
+  },
+  {
+    "index": "L589LLOW",
+    "pre": "#",
+    "center": "LLOW",
+    "post": "",
+    "translation": "lb o w"
+  },
+  {
+    "index": "L599LEAD",
+    "pre": "",
+    "center": "LEAD",
+    "post": "",
+    "translation": "l ie d"
+  },
+  {
+    "index": "L689LLO",
+    "pre": "#",
+    "center": "LLO",
+    "post": "",
+    "translation": "lb o w"
+  },
+  {
+    "index": "L797LO",
+    "pre": "",
+    "center": "LO",
+    "post": "C#",
+    "translation": "lb o w"
+  },
+  {
+    "index": "L867L",
+    "pre": "#:^",
+    "center": "L",
+    "post": "$!",
+    "translation": "lf"
+  },
+  {
+    "index": "L877L",
+    "pre": "#:",
+    "center": "L",
+    "post": "E!",
+    "translation": "lf"
+  },
+  {
+    "index": "L887L",
+    "pre": "#",
+    "center": "L",
+    "post": "L!",
+    "translation": "lf"
+  },
+  {
+    "index": "L888L",
+    "pre": "!",
+    "center": "L",
+    "post": "!",
+    "translation": "eh1 lf"
+  },
+  {
+    "index": "L888L",
+    "pre": "!",
+    "center": "L",
+    "post": "I",
+    "translation": "lb"
+  },
+  {
+    "index": "L888L",
+    "pre": "!",
+    "center": "L",
+    "post": "O",
+    "translation": "lb"
+  },
+  {
+    "index": "L888L",
+    "pre": "!",
+    "center": "L",
+    "post": "U",
+    "translation": "lb"
+  },
+  {
+    "index": "L889L",
+    "pre": "L",
+    "center": "L",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "L898L",
+    "pre": "",
+    "center": "L",
+    "post": "!",
+    "translation": "lf"
+  },
+  {
+    "index": "L898L",
+    "pre": "",
+    "center": "L",
+    "post": "P",
+    "translation": "lf"
+  },
+  {
+    "index": "L899L",
+    "pre": "",
+    "center": "L",
+    "post": "",
+    "translation": "l"
+  },
+  {
+    "index": "M499MAYBE",
+    "pre": "",
+    "center": "MAYBE",
+    "post": "",
+    "translation": "m a ie b ie"
+  },
+  {
+    "index": "M499MICRO",
+    "pre": "",
+    "center": "MICRO",
+    "post": "",
+    "translation": "m ah1 ie k er o w"
+  },
+  {
+    "index": "M499MOTOR",
+    "pre": "",
+    "center": "MOTOR",
+    "post": "",
+    "translation": "m o w t er"
+  },
+  {
+    "index": "M689MNE",
+    "pre": "!",
+    "center": "MNE",
+    "post": "",
+    "translation": "n i"
+  },
+  {
+    "index": "M699MOV",
+    "pre": "",
+    "center": "MOV",
+    "post": "",
+    "translation": "m u v"
+  },
+  {
+    "index": "M888M",
+    "pre": "!",
+    "center": "M",
+    "post": "!",
+    "translation": "eh1 m"
+  },
+  {
+    "index": "M889M",
+    "pre": "M",
+    "center": "M",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "M899M",
+    "pre": "",
+    "center": "M",
+    "post": "",
+    "translation": "m"
+  },
+  {
+    "index": "N199NOVEMBER",
+    "pre": "",
+    "center": "NOVEMBER",
+    "post": "",
+    "translation": "n o v eh m b er"
+  },
+  {
+    "index": "N388NINETY",
+    "pre": "!",
+    "center": "NINETY",
+    "post": "!",
+    "translation": "n ah1 ie n t ie"
+  },
+  {
+    "index": "N588NONE",
+    "pre": "!",
+    "center": "NONE",
+    "post": "!",
+    "translation": "n uh3 n"
+  },
+  {
+    "index": "N589NANO",
+    "pre": "!",
+    "center": "NANO",
+    "post": "",
+    "translation": "n ae n o w"
+  },
+  {
+    "index": "N688NOW",
+    "pre": "!",
+    "center": "NOW",
+    "post": "!",
+    "translation": "n ah1 w"
+  },
+  {
+    "index": "N697NGL",
+    "pre": "",
+    "center": "NGL",
+    "post": "$!",
+    "translation": "ng g uh1 lf"
+  },
+  {
+    "index": "N788NG",
+    "pre": "E",
+    "center": "NG",
+    "post": "+",
+    "translation": "n d j"
+  },
+  {
+    "index": "N798NG",
+    "pre": "",
+    "center": "NG",
+    "post": "R",
+    "translation": "ng g"
+  },
+  {
+    "index": "N798NG",
+    "pre": "",
+    "center": "NG",
+    "post": "#",
+    "translation": "ng g"
+  },
+  {
+    "index": "N799NG",
+    "pre": "",
+    "center": "NG",
+    "post": "",
+    "translation": "ng"
+  },
+  {
+    "index": "N799NK",
+    "pre": "",
+    "center": "NK",
+    "post": "",
+    "translation": "ng k"
+  },
+  {
+    "index": "N888N",
+    "pre": "!",
+    "center": "N",
+    "post": "!",
+    "translation": "eh1 n"
+  },
+  {
+    "index": "N889N",
+    "pre": "N",
+    "center": "N",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "N899N",
+    "pre": "",
+    "center": "N",
+    "post": "",
+    "translation": "n"
+  },
+  {
+    "index": "O399OROUGH",
+    "pre": "",
+    "center": "OROUGH",
+    "post": "",
+    "translation": "er o w"
+  },
+  {
+    "index": "O489OFTEN",
+    "pre": "!",
+    "center": "OFTEN",
+    "post": "",
+    "translation": "aw f uh n"
+  },
+  {
+    "index": "O499OTHER",
+    "pre": "",
+    "center": "OTHER",
+    "post": "",
+    "translation": "uh2 thv er"
+  },
+  {
+    "index": "O499OUGHT",
+    "pre": "",
+    "center": "OUGHT",
+    "post": "",
+    "translation": "ah t"
+  },
+  {
+    "index": "O568OUSE",
+    "pre": "!^:",
+    "center": "OUSE",
+    "post": "!",
+    "translation": "ah1 s"
+  },
+  {
+    "index": "O589ONCE",
+    "pre": "!",
+    "center": "ONCE",
+    "post": "",
+    "translation": "w uh2 n s"
+  },
+  {
+    "index": "O589ONLY",
+    "pre": "!",
+    "center": "ONLY",
+    "post": "",
+    "translation": "o n l ie"
+  },
+  {
+    "index": "O589OVER",
+    "pre": "!",
+    "center": "OVER",
+    "post": "",
+    "translation": "o v er"
+  },
+  {
+    "index": "O599OING",
+    "pre": "",
+    "center": "OING",
+    "post": "",
+    "translation": "o w i ng"
+  },
+  {
+    "index": "O599ON'T",
+    "pre": "",
+    "center": "ON'T",
+    "post": "",
+    "translation": "o w n t"
+  },
+  {
+    "index": "O599OUGH",
+    "pre": "",
+    "center": "OUGH",
+    "post": "",
+    "translation": "uh3 f"
+  },
+  {
+    "index": "O599OULD",
+    "pre": "",
+    "center": "OULD",
+    "post": "",
+    "translation": "iu1 d"
+  },
+  {
+    "index": "O669OTO",
+    "pre": "!PR",
+    "center": "OTO",
+    "post": "",
+    "translation": "o t o"
+  },
+  {
+    "index": "O678ORS",
+    "pre": "#:",
+    "center": "ORS",
+    "post": "!",
+    "translation": "er z"
+  },
+  {
+    "index": "O687OFT",
+    "pre": "!",
+    "center": "OFT",
+    "post": "EN",
+    "translation": "ah f t"
+  },
+  {
+    "index": "O689ONE",
+    "pre": "!",
+    "center": "ONE",
+    "post": "",
+    "translation": "w uh2 n"
+  },
+  {
+    "index": "O689OUR",
+    "pre": "!",
+    "center": "OUR",
+    "post": "",
+    "translation": "ah w er"
+  },
+  {
+    "index": "O698OSS",
+    "pre": "",
+    "center": "OSS",
+    "post": "!",
+    "translation": "ah s"
+  },
+  {
+    "index": "O699OOD",
+    "pre": "",
+    "center": "OOD",
+    "post": "",
+    "translation": "iu1 d"
+  },
+  {
+    "index": "O699OOK",
+    "pre": "",
+    "center": "OOK",
+    "post": "",
+    "translation": "oo k"
+  },
+  {
+    "index": "O699OOR",
+    "pre": "",
+    "center": "OOR",
+    "post": "",
+    "translation": "o er"
+  },
+  {
+    "index": "O699OUP",
+    "pre": "",
+    "center": "OUP",
+    "post": "",
+    "translation": "u p"
+  },
+  {
+    "index": "O699OUR",
+    "pre": "",
+    "center": "OUR",
+    "post": "",
+    "translation": "o er"
+  },
+  {
+    "index": "O699OUS",
+    "pre": "",
+    "center": "OUS",
+    "post": "",
+    "translation": "uh1 s"
+  },
+  {
+    "index": "O769OM",
+    "pre": "#:^",
+    "center": "OM",
+    "post": "",
+    "translation": "uh3 m"
+  },
+  {
+    "index": "O777OU",
+    "pre": ":^",
+    "center": "OU",
+    "post": "^L",
+    "translation": "uh2"
+  },
+  {
+    "index": "O778ON",
+    "pre": "#:",
+    "center": "ON",
+    "post": "!",
+    "translation": "uh1 n"
+  },
+  {
+    "index": "O778OR",
+    "pre": "#:",
+    "center": "OR",
+    "post": "!",
+    "translation": "er"
+  },
+  {
+    "index": "O778OV",
+    "pre": "PR",
+    "center": "OV",
+    "post": "$",
+    "translation": "u v"
+  },
+  {
+    "index": "O779ON",
+    "pre": "#^",
+    "center": "ON",
+    "post": "",
+    "translation": "uh1 n"
+  },
+  {
+    "index": "O787OU",
+    "pre": "H",
+    "center": "OU",
+    "post": "S#",
+    "translation": "ah1 w"
+  },
+  {
+    "index": "O789OH",
+    "pre": "!",
+    "center": "OH",
+    "post": "",
+    "translation": "ah1 w"
+  },
+  {
+    "index": "O789ON",
+    "pre": "I",
+    "center": "ON",
+    "post": "",
+    "translation": "uh1 n"
+  },
+  {
+    "index": "O798OF",
+    "pre": "",
+    "center": "OF",
+    "post": "!",
+    "translation": "uh1 v"
+  },
+  {
+    "index": "O798OF",
+    "pre": "",
+    "center": "OF",
+    "post": "^",
+    "translation": "ah f"
+  },
+  {
+    "index": "O798OL",
+    "pre": "",
+    "center": "OL",
+    "post": "D",
+    "translation": "o w lb"
+  },
+  {
+    "index": "O799OA",
+    "pre": "",
+    "center": "OA",
+    "post": "",
+    "translation": "o w"
+  },
+  {
+    "index": "O799OI",
+    "pre": "",
+    "center": "OI",
+    "post": "",
+    "translation": "o ie"
+  },
+  {
+    "index": "O799OO",
+    "pre": "",
+    "center": "OO",
+    "post": "",
+    "translation": "u u1"
+  },
+  {
+    "index": "O799OR",
+    "pre": "",
+    "center": "OR",
+    "post": "",
+    "translation": "o er"
+  },
+  {
+    "index": "O799OU",
+    "pre": "",
+    "center": "OU",
+    "post": "",
+    "translation": "ah1 w"
+  },
+  {
+    "index": "O799OV",
+    "pre": "",
+    "center": "OV",
+    "post": "",
+    "translation": "uh3 v"
+  },
+  {
+    "index": "O799OW",
+    "pre": "",
+    "center": "OW",
+    "post": "",
+    "translation": "o w"
+  },
+  {
+    "index": "O799OY",
+    "pre": "",
+    "center": "OY",
+    "post": "",
+    "translation": "o ie"
+  },
+  {
+    "index": "O877O",
+    "pre": "!C",
+    "center": "O",
+    "post": "ST",
+    "translation": "ah"
+  },
+  {
+    "index": "O878O",
+    "pre": ":^",
+    "center": "O",
+    "post": "N",
+    "translation": "uh3"
+  },
+  {
+    "index": "O886O",
+    "pre": "D",
+    "center": "O",
+    "post": "ZEN",
+    "translation": "uh"
+  },
+  {
+    "index": "O888O",
+    "pre": "!",
+    "center": "O",
+    "post": "!",
+    "translation": "o w"
+  },
+  {
+    "index": "O888O",
+    "pre": "C",
+    "center": "O",
+    "post": "N",
+    "translation": "aw"
+  },
+  {
+    "index": "O895O",
+    "pre": "",
+    "center": "O",
+    "post": "SURE",
+    "translation": "o"
+  },
+  {
+    "index": "O896O",
+    "pre": "",
+    "center": "O",
+    "post": "^$!",
+    "translation": "o"
+  },
+  {
+    "index": "O896O",
+    "pre": "",
+    "center": "O",
+    "post": "^EN",
+    "translation": "o w"
+  },
+  {
+    "index": "O896O",
+    "pre": "",
+    "center": "O",
+    "post": "^I#",
+    "translation": "o w"
+  },
+  {
+    "index": "O896O",
+    "pre": "",
+    "center": "O",
+    "post": "ST!",
+    "translation": "o w"
+  },
+  {
+    "index": "O897O",
+    "pre": "",
+    "center": "O",
+    "post": "NG",
+    "translation": "ah"
+  },
+  {
+    "index": "O898O",
+    "pre": "",
+    "center": "O",
+    "post": "",
+    "translation": "o"
+  },
+  {
+    "index": "O898O",
+    "pre": "",
+    "center": "O",
+    "post": "E",
+    "translation": "o w"
+  },
+  {
+    "index": "O898O",
+    "pre": "",
+    "center": "O",
+    "post": "!",
+    "translation": "o w"
+  },
+  {
+    "index": "O899O",
+    "pre": "",
+    "center": "O",
+    "post": "",
+    "translation": "aw"
+  },
+  {
+    "index": "P289PHONEME",
+    "pre": "!",
+    "center": "PHONEME",
+    "post": "",
+    "translation": "f o n e m"
+  },
+  {
+    "index": "P299PROGRAM",
+    "pre": "",
+    "center": "PROGRAM",
+    "post": "",
+    "translation": "p er o w g er ae m"
+  },
+  {
+    "index": "P399PASCAL",
+    "pre": "",
+    "center": "PASCAL",
+    "post": "",
+    "translation": "p ae s k ae l"
+  },
+  {
+    "index": "P489PSYCH",
+    "pre": "!",
+    "center": "PSYCH",
+    "post": "",
+    "translation": "s ah1 ie k"
+  },
+  {
+    "index": "P589PICO",
+    "pre": "!",
+    "center": "PICO",
+    "post": "",
+    "translation": "p e k o w"
+  },
+  {
+    "index": "P589PING",
+    "pre": "!",
+    "center": "PING",
+    "post": "",
+    "translation": "p i ng"
+  },
+  {
+    "index": "P589PNEU",
+    "pre": "!",
+    "center": "PNEU",
+    "post": "",
+    "translation": "n u u1"
+  },
+  {
+    "index": "P589PULL",
+    "pre": "!",
+    "center": "PULL",
+    "post": "",
+    "translation": "p oo lf"
+  },
+  {
+    "index": "P599PEOP",
+    "pre": "",
+    "center": "PEOP",
+    "post": "",
+    "translation": "p e p"
+  },
+  {
+    "index": "P698PUT",
+    "pre": "",
+    "center": "PUT",
+    "post": "!",
+    "translation": "p oo t"
+  },
+  {
+    "index": "P699POW",
+    "pre": "",
+    "center": "POW",
+    "post": "",
+    "translation": "p ah1 w"
+  },
+  {
+    "index": "P799PH",
+    "pre": "",
+    "center": "PH",
+    "post": "",
+    "translation": "f"
+  },
+  {
+    "index": "P888P",
+    "pre": "!",
+    "center": "P",
+    "post": "!",
+    "translation": "p e ie"
+  },
+  {
+    "index": "P889P",
+    "pre": "P",
+    "center": "P",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "P899P",
+    "pre": "",
+    "center": "P",
+    "post": "",
+    "translation": "p"
+  },
+  {
+    "index": "Q599QUAL",
+    "pre": "",
+    "center": "QUAL",
+    "post": "",
+    "translation": "k w ah l"
+  },
+  {
+    "index": "Q599QUAR",
+    "pre": "",
+    "center": "QUAR",
+    "post": "",
+    "translation": "k w ah er"
+  },
+  {
+    "index": "Q799QU",
+    "pre": "",
+    "center": "QU",
+    "post": "",
+    "translation": "k w"
+  },
+  {
+    "index": "Q884Q",
+    "pre": "!",
+    "center": "Q",
+    "post": "ANTAS",
+    "translation": "k w ah"
+  },
+  {
+    "index": "Q888Q",
+    "pre": "!",
+    "center": "Q",
+    "post": "!",
+    "translation": "k yi u u1"
+  },
+  {
+    "index": "Q899Q",
+    "pre": "",
+    "center": "Q",
+    "post": "",
+    "translation": "k"
+  },
+  {
+    "index": "R299ROUTINE",
+    "pre": "",
+    "center": "ROUTINE",
+    "post": "",
+    "translation": "r u1 t ie n"
+  },
+  {
+    "index": "R489RADIO",
+    "pre": "!",
+    "center": "RADIO",
+    "post": "",
+    "translation": "r a ie d ie o w"
+  },
+  {
+    "index": "R489ROBOT",
+    "pre": "!",
+    "center": "ROBOT",
+    "post": "",
+    "translation": "r o w b aw t"
+  },
+  {
+    "index": "R499RESET",
+    "pre": "",
+    "center": "RESET",
+    "post": "",
+    "translation": "r ie s eh t"
+  },
+  {
+    "index": "R588READ",
+    "pre": "!",
+    "center": "READ",
+    "post": "$",
+    "translation": "r ie d"
+  },
+  {
+    "index": "R588RING",
+    "pre": "!",
+    "center": "RING",
+    "post": "!",
+    "translation": "r i ng"
+  },
+  {
+    "index": "R588RING",
+    "pre": "!",
+    "center": "RING",
+    "post": "$",
+    "translation": "r i ng"
+  },
+  {
+    "index": "R688RES",
+    "pre": "!",
+    "center": "RES",
+    "post": "I",
+    "translation": "r eh1 z"
+  },
+  {
+    "index": "R787RE",
+    "pre": "!",
+    "center": "RE",
+    "post": "^#",
+    "translation": "r ie"
+  },
+  {
+    "index": "R888R",
+    "pre": "!",
+    "center": "R",
+    "post": "!",
+    "translation": "ah er"
+  },
+  {
+    "index": "R889R",
+    "pre": "R",
+    "center": "R",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "R889R",
+    "pre": "!",
+    "center": "R",
+    "post": "",
+    "translation": "r"
+  },
+  {
+    "index": "R899R",
+    "pre": "",
+    "center": "R",
+    "post": "",
+    "translation": "er"
+  },
+  {
+    "index": "S399SINCER",
+    "pre": "",
+    "center": "SINCER",
+    "post": "",
+    "translation": "s i n s e er"
+  },
+  {
+    "index": "S399SPRING",
+    "pre": "",
+    "center": "SPRING",
+    "post": "",
+    "translation": "s p er i ng"
+  },
+  {
+    "index": "S399STRING",
+    "pre": "",
+    "center": "STRING",
+    "post": "",
+    "translation": "s t er e ng"
+  },
+  {
+    "index": "S489SLING",
+    "pre": "!",
+    "center": "SLING",
+    "post": "",
+    "translation": "s l i ng"
+  },
+  {
+    "index": "S577SABL",
+    "pre": "DI",
+    "center": "SABL",
+    "post": "$!",
+    "translation": "s a ie b lf"
+  },
+  {
+    "index": "S588SAYS",
+    "pre": "!",
+    "center": "SAYS",
+    "post": "!",
+    "translation": "s eh z"
+  },
+  {
+    "index": "S589SCHU",
+    "pre": "!",
+    "center": "SCHU",
+    "post": "",
+    "translation": "sch u"
+  },
+  {
+    "index": "S589SING",
+    "pre": "!",
+    "center": "SING",
+    "post": "",
+    "translation": "s i ng"
+  },
+  {
+    "index": "S589SION",
+    "pre": "#",
+    "center": "SION",
+    "post": "",
+    "translation": "j uh1 n"
+  },
+  {
+    "index": "S589SION",
+    "pre": "^",
+    "center": "SION",
+    "post": "",
+    "translation": "sch uh1 n"
+  },
+  {
+    "index": "S599SAID",
+    "pre": "",
+    "center": "SAID",
+    "post": "",
+    "translation": "s eh d"
+  },
+  {
+    "index": "S599SOME",
+    "pre": "",
+    "center": "SOME",
+    "post": "",
+    "translation": "s uh2 m"
+  },
+  {
+    "index": "S688SED",
+    "pre": "#",
+    "center": "SED",
+    "post": "!",
+    "translation": "z d"
+  },
+  {
+    "index": "S688SSU",
+    "pre": "#",
+    "center": "SSU",
+    "post": "#",
+    "translation": "sch u"
+  },
+  {
+    "index": "S688SUR",
+    "pre": "#",
+    "center": "SUR",
+    "post": "#",
+    "translation": "j er"
+  },
+  {
+    "index": "S689SCH",
+    "pre": "!",
+    "center": "SCH",
+    "post": "",
+    "translation": "s k"
+  },
+  {
+    "index": "S698SUR",
+    "pre": "",
+    "center": "SUR",
+    "post": "#",
+    "translation": "sch er"
+  },
+  {
+    "index": "S788SU",
+    "pre": "#",
+    "center": "SU",
+    "post": "#",
+    "translation": "j u"
+  },
+  {
+    "index": "S789SM",
+    "pre": "#",
+    "center": "SM",
+    "post": "",
+    "translation": "z m"
+  },
+  {
+    "index": "S789SN",
+    "pre": "#",
+    "center": "SN",
+    "post": "",
+    "translation": "z n"
+  },
+  {
+    "index": "S799SH",
+    "pre": "",
+    "center": "SH",
+    "post": "",
+    "translation": "sch"
+  },
+  {
+    "index": "S858S",
+    "pre": "#:^#",
+    "center": "S",
+    "post": "!",
+    "translation": "s"
+  },
+  {
+    "index": "S868S",
+    "pre": "^#E",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "S868S",
+    "pre": "!WA",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "S869S",
+    "pre": "!HA",
+    "center": "S",
+    "post": "",
+    "translation": "z"
+  },
+  {
+    "index": "S878S",
+    "pre": ".E",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "S878S",
+    "pre": "!#",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "S887S",
+    "pre": "I",
+    "center": "S",
+    "post": "ON",
+    "translation": "s"
+  },
+  {
+    "index": "S888S",
+    "pre": "!",
+    "center": "S",
+    "post": "!",
+    "translation": "eh1 s"
+  },
+  {
+    "index": "S888S",
+    "pre": "#",
+    "center": "S",
+    "post": "#",
+    "translation": "z"
+  },
+  {
+    "index": "S888S",
+    "pre": ".",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "S888S",
+    "pre": "Y",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "S888S",
+    "pre": "U",
+    "center": "S",
+    "post": "!",
+    "translation": "s"
+  },
+  {
+    "index": "S897S",
+    "pre": "",
+    "center": "S",
+    "post": "C+",
+    "translation": ""
+  },
+  {
+    "index": "S898S",
+    "pre": "",
+    "center": "S",
+    "post": "S",
+    "translation": ""
+  },
+  {
+    "index": "S899S",
+    "pre": "",
+    "center": "S",
+    "post": "",
+    "translation": "s"
+  },
+  {
+    "index": "T299THROUGH",
+    "pre": "",
+    "center": "THROUGH",
+    "post": "",
+    "translation": "th er u"
+  },
+  {
+    "index": "T398THOUGH",
+    "pre": "",
+    "center": "THOUGH",
+    "post": "!",
+    "translation": "thv o w"
+  },
+  {
+    "index": "T399TWELVE",
+    "pre": "",
+    "center": "TWELVE",
+    "post": "",
+    "translation": "t w eh1 lf v"
+  },
+  {
+    "index": "T489THERE",
+    "pre": "!",
+    "center": "THERE",
+    "post": "",
+    "translation": "thv eh er"
+  },
+  {
+    "index": "T498THESE",
+    "pre": "",
+    "center": "THESE",
+    "post": "!",
+    "translation": "thv e z"
+  },
+  {
+    "index": "T499THEIR",
+    "pre": "",
+    "center": "THEIR",
+    "post": "",
+    "translation": "thv eh er"
+  },
+  {
+    "index": "T499THOSE",
+    "pre": "",
+    "center": "THOSE",
+    "post": "",
+    "translation": "thv o z"
+  },
+  {
+    "index": "T588THAN",
+    "pre": "!",
+    "center": "THAN",
+    "post": "!",
+    "translation": "thv ae n"
+  },
+  {
+    "index": "T588THEM",
+    "pre": "!",
+    "center": "THEM",
+    "post": "!",
+    "translation": "thv eh m"
+  },
+  {
+    "index": "T588THIS",
+    "pre": "!",
+    "center": "THIS",
+    "post": "!",
+    "translation": "thv i s"
+  },
+  {
+    "index": "T589THEN",
+    "pre": "!",
+    "center": "THEN",
+    "post": "",
+    "translation": "thv eh n"
+  },
+  {
+    "index": "T589THEY",
+    "pre": "!",
+    "center": "THEY",
+    "post": "",
+    "translation": "thv a ie"
+  },
+  {
+    "index": "T589THUS",
+    "pre": "!",
+    "center": "THUS",
+    "post": "",
+    "translation": "thv uh3 s"
+  },
+  {
+    "index": "T589TUES",
+    "pre": "!",
+    "center": "TUES",
+    "post": "",
+    "translation": "t u u1 z"
+  },
+  {
+    "index": "T598THAT",
+    "pre": "",
+    "center": "THAT",
+    "post": "!",
+    "translation": "thv ae t"
+  },
+  {
+    "index": "T598TION",
+    "pre": "",
+    "center": "TION",
+    "post": "$",
+    "translation": "sch uh1 n"
+  },
+  {
+    "index": "T599THER",
+    "pre": "",
+    "center": "THER",
+    "post": "",
+    "translation": "thv er"
+  },
+  {
+    "index": "T599TIEN",
+    "pre": "",
+    "center": "TIEN",
+    "post": "",
+    "translation": "sch uh1 n"
+  },
+  {
+    "index": "T678TED",
+    "pre": "#:",
+    "center": "TED",
+    "post": "!",
+    "translation": "t i d"
+  },
+  {
+    "index": "T688THE",
+    "pre": "!",
+    "center": "THE",
+    "post": "!",
+    "translation": "thv uh1"
+  },
+  {
+    "index": "T689TWO",
+    "pre": "!",
+    "center": "TWO",
+    "post": "",
+    "translation": "t u u1"
+  },
+  {
+    "index": "T697TIM",
+    "pre": "",
+    "center": "TIM",
+    "post": "$!",
+    "translation": "t ah1 ie m"
+  },
+  {
+    "index": "T698TUR",
+    "pre": "",
+    "center": "TUR",
+    "post": "#",
+    "translation": "t sch er"
+  },
+  {
+    "index": "T699TCH",
+    "pre": "",
+    "center": "TCH",
+    "post": "",
+    "translation": "t sch"
+  },
+  {
+    "index": "T787TI",
+    "pre": "S",
+    "center": "TI",
+    "post": "#N",
+    "translation": "t sch"
+  },
+  {
+    "index": "T798TI",
+    "pre": "",
+    "center": "TI",
+    "post": "O",
+    "translation": "sch"
+  },
+  {
+    "index": "T798TI",
+    "pre": "",
+    "center": "TI",
+    "post": "A",
+    "translation": "sch"
+  },
+  {
+    "index": "T798TO",
+    "pre": "",
+    "center": "TO",
+    "post": "!",
+    "translation": "t u u1"
+  },
+  {
+    "index": "T798TU",
+    "pre": "",
+    "center": "TU",
+    "post": "A",
+    "translation": "t sch u"
+  },
+  {
+    "index": "T799TH",
+    "pre": "",
+    "center": "TH",
+    "post": "",
+    "translation": "th"
+  },
+  {
+    "index": "T888T",
+    "pre": "!",
+    "center": "T",
+    "post": "!",
+    "translation": "t e ie"
+  },
+  {
+    "index": "T889T",
+    "pre": "T",
+    "center": "T",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": "T899T",
+    "pre": "",
+    "center": "T",
+    "post": "",
+    "translation": "t"
+  },
+  {
+    "index": "U589UPON",
+    "pre": "!",
+    "center": "UPON",
+    "post": "",
+    "translation": "uh1 p ah n"
+  },
+  {
+    "index": "U659UIT",
+    "pre": "CIRC",
+    "center": "UIT",
+    "post": "",
+    "translation": "i t"
+  },
+  {
+    "index": "U788UN",
+    "pre": "!",
+    "center": "UN",
+    "post": "I",
+    "translation": "yi u n"
+  },
+  {
+    "index": "U788UR",
+    "pre": "@",
+    "center": "UR",
+    "post": "#",
+    "translation": "oo er"
+  },
+  {
+    "index": "U789UN",
+    "pre": "!",
+    "center": "UN",
+    "post": "",
+    "translation": "uh3 n"
+  },
+  {
+    "index": "U798UR",
+    "pre": "",
+    "center": "UR",
+    "post": "#",
+    "translation": "yi oo er"
+  },
+  {
+    "index": "U799UR",
+    "pre": "",
+    "center": "UR",
+    "post": "",
+    "translation": "er"
+  },
+  {
+    "index": "U799UY",
+    "pre": "",
+    "center": "UY",
+    "post": "",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "U878U",
+    "pre": "!G",
+    "center": "U",
+    "post": "#",
+    "translation": ""
+  },
+  {
+    "index": "U879U",
+    "pre": "#N",
+    "center": "U",
+    "post": "",
+    "translation": "yi u"
+  },
+  {
+    "index": "U887U",
+    "pre": "G",
+    "center": "U",
+    "post": "$!",
+    "translation": ""
+  },
+  {
+    "index": "U888U",
+    "pre": "!",
+    "center": "U",
+    "post": "!",
+    "translation": "yi u u1"
+  },
+  {
+    "index": "U888U",
+    "pre": "G",
+    "center": "U",
+    "post": "#",
+    "translation": "w"
+  },
+  {
+    "index": "U889U",
+    "pre": "@",
+    "center": "U",
+    "post": "",
+    "translation": "u"
+  },
+  {
+    "index": "U897U",
+    "pre": "",
+    "center": "U",
+    "post": "^!",
+    "translation": "uh2"
+  },
+  {
+    "index": "U897U",
+    "pre": "",
+    "center": "U",
+    "post": "^^",
+    "translation": "uh2"
+  },
+  {
+    "index": "U899U",
+    "pre": "",
+    "center": "U",
+    "post": "",
+    "translation": "yi u"
+  },
+  {
+    "index": "V489VISIT",
+    "pre": "!",
+    "center": "VISIT",
+    "post": "",
+    "translation": "v i z i t"
+  },
+  {
+    "index": "V499VALUE",
+    "pre": "",
+    "center": "VALUE",
+    "post": "",
+    "translation": "v ae l yi u u1"
+  },
+  {
+    "index": "V598VICE",
+    "pre": "",
+    "center": "VICE",
+    "post": "!",
+    "translation": "v ah1 ie s"
+  },
+  {
+    "index": "V599VIEW",
+    "pre": "",
+    "center": "VIEW",
+    "post": "",
+    "translation": "v yi u"
+  },
+  {
+    "index": "V688VIT",
+    "pre": "!",
+    "center": "VIT",
+    "post": "A",
+    "translation": "v ah1 ie t"
+  },
+  {
+    "index": "V788VI",
+    "pre": "!",
+    "center": "VI",
+    "post": "B",
+    "translation": "v ah1 ie"
+  },
+  {
+    "index": "V888V",
+    "pre": "!",
+    "center": "V",
+    "post": "!",
+    "translation": "v e ie"
+  },
+  {
+    "index": "V899V",
+    "pre": "",
+    "center": "V",
+    "post": "",
+    "translation": "v"
+  },
+  {
+    "index": "W389WEDNES",
+    "pre": "!",
+    "center": "WEDNES",
+    "post": "",
+    "translation": "w eh1 n z"
+  },
+  {
+    "index": "W499WHERE",
+    "pre": "",
+    "center": "WHERE",
+    "post": "",
+    "translation": "h w eh er"
+  },
+  {
+    "index": "W589WAND",
+    "pre": "!",
+    "center": "WAND",
+    "post": "",
+    "translation": "w ah n d"
+  },
+  {
+    "index": "W589WANT",
+    "pre": "!",
+    "center": "WANT",
+    "post": "",
+    "translation": "w ah n t"
+  },
+  {
+    "index": "W589WERE",
+    "pre": "!",
+    "center": "WERE",
+    "post": "",
+    "translation": "w er"
+  },
+  {
+    "index": "W589WING",
+    "pre": "!",
+    "center": "WING",
+    "post": "",
+    "translation": "w i ng"
+  },
+  {
+    "index": "W598WARE",
+    "pre": "",
+    "center": "WARE",
+    "post": "!",
+    "translation": "w eh er"
+  },
+  {
+    "index": "W599WHAT",
+    "pre": "",
+    "center": "WHAT",
+    "post": "",
+    "translation": "h w aw t"
+  },
+  {
+    "index": "W599WHOL",
+    "pre": "",
+    "center": "WHOL",
+    "post": "",
+    "translation": "h o lf"
+  },
+  {
+    "index": "W689WAR",
+    "pre": "!",
+    "center": "WAR",
+    "post": "",
+    "translation": "w o er"
+  },
+  {
+    "index": "W698WOR",
+    "pre": "",
+    "center": "WOR",
+    "post": "^",
+    "translation": "w er"
+  },
+  {
+    "index": "W699WAR",
+    "pre": "",
+    "center": "WAR",
+    "post": "",
+    "translation": "w ah er"
+  },
+  {
+    "index": "W699WHO",
+    "pre": "",
+    "center": "WHO",
+    "post": "",
+    "translation": "h u"
+  },
+  {
+    "index": "W798WA",
+    "pre": "",
+    "center": "WA",
+    "post": "S",
+    "translation": "w aw"
+  },
+  {
+    "index": "W798WA",
+    "pre": "",
+    "center": "WA",
+    "post": "T",
+    "translation": "w aw"
+  },
+  {
+    "index": "W799WH",
+    "pre": "",
+    "center": "WH",
+    "post": "",
+    "translation": "h w"
+  },
+  {
+    "index": "W799WR",
+    "pre": "",
+    "center": "WR",
+    "post": "",
+    "translation": "er"
+  },
+  {
+    "index": "W888W",
+    "pre": "!",
+    "center": "W",
+    "post": "!",
+    "translation": "d uh2 b lf yi u u1"
+  },
+  {
+    "index": "W899W",
+    "pre": "",
+    "center": "W",
+    "post": "",
+    "translation": "w"
+  },
+  {
+    "index": "X869X",
+    "pre": "PRI",
+    "center": "X",
+    "post": "!",
+    "translation": ""
+  },
+  {
+    "index": "X877X",
+    "pre": "!E",
+    "center": "X",
+    "post": "CA",
+    "translation": "k s"
+  },
+  {
+    "index": "X877X",
+    "pre": "!E",
+    "center": "X",
+    "post": "CU",
+    "translation": "k s"
+  },
+  {
+    "index": "X877X",
+    "pre": "!E",
+    "center": "X",
+    "post": "C#",
+    "translation": "k"
+  },
+  {
+    "index": "X888X",
+    "pre": "!",
+    "center": "X",
+    "post": "!",
+    "translation": "eh1 k s"
+  },
+  {
+    "index": "X888X",
+    "pre": "!",
+    "center": "X",
+    "post": "#",
+    "translation": "z"
+  },
+  {
+    "index": "X888X",
+    "pre": "!",
+    "center": "X",
+    "post": "Y",
+    "translation": "z"
+  },
+  {
+    "index": "X899X",
+    "pre": "",
+    "center": "X",
+    "post": "",
+    "translation": "k s"
+  },
+  {
+    "index": "Y499YOUNG",
+    "pre": "",
+    "center": "YOUNG",
+    "post": "",
+    "translation": "yi uh2 ng"
+  },
+  {
+    "index": "Y589YOUR",
+    "pre": "!",
+    "center": "YOUR",
+    "post": "",
+    "translation": "yi o er"
+  },
+  {
+    "index": "Y689YES",
+    "pre": "!",
+    "center": "YES",
+    "post": "",
+    "translation": "yi eh s"
+  },
+  {
+    "index": "Y689YOU",
+    "pre": "!",
+    "center": "YOU",
+    "post": "",
+    "translation": "yi u u1"
+  },
+  {
+    "index": "Y798YZ",
+    "pre": "",
+    "center": "YZ",
+    "post": "+",
+    "translation": "ah ie z"
+  },
+  {
+    "index": "Y868Y",
+    "pre": "#:^",
+    "center": "Y",
+    "post": "!",
+    "translation": "ie"
+  },
+  {
+    "index": "Y868Y",
+    "pre": "#:^",
+    "center": "Y",
+    "post": "I",
+    "translation": "ie"
+  },
+  {
+    "index": "Y875Y",
+    "pre": "!:",
+    "center": "Y",
+    "post": "^+:#",
+    "translation": "i"
+  },
+  {
+    "index": "Y877Y",
+    "pre": "!:",
+    "center": "Y",
+    "post": "^#",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "Y878Y",
+    "pre": "!:",
+    "center": "Y",
+    "post": "!",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "Y878Y",
+    "pre": "!:",
+    "center": "Y",
+    "post": "#",
+    "translation": "ah1 ie"
+  },
+  {
+    "index": "Y888Y",
+    "pre": "!",
+    "center": "Y",
+    "post": "!",
+    "translation": "w ah ie"
+  },
+  {
+    "index": "Y888Y",
+    "pre": "B",
+    "center": "Y",
+    "post": "!",
+    "translation": "ah ie"
+  },
+  {
+    "index": "Y888Y",
+    "pre": "T",
+    "center": "Y",
+    "post": "P",
+    "translation": "ah ie"
+  },
+  {
+    "index": "Y889Y",
+    "pre": "!",
+    "center": "Y",
+    "post": "",
+    "translation": "yi"
+  },
+  {
+    "index": "Y899Y",
+    "pre": "",
+    "center": "Y",
+    "post": "",
+    "translation": "i"
+  },
+  {
+    "index": "Z599ZERO",
+    "pre": "",
+    "center": "ZERO",
+    "post": "",
+    "translation": "z e er o w"
+  },
+  {
+    "index": "Z888Z",
+    "pre": "!",
+    "center": "Z",
+    "post": "!",
+    "translation": "z e"
+  },
+  {
+    "index": "Z899Z",
+    "pre": "",
+    "center": "Z",
+    "post": "",
+    "translation": "z"
+  },
+  {
+    "index": "698'LL",
+    "pre": "",
+    "center": "LL",
+    "post": "!",
+    "translation": "lf"
+  },
+  {
+    "index": "698'RE",
+    "pre": "",
+    "center": "RE",
+    "post": "!",
+    "translation": "er"
+  },
+  {
+    "index": "698'VE",
+    "pre": "",
+    "center": "VE",
+    "post": "!",
+    "translation": "v"
+  },
+  {
+    "index": "798'D",
+    "pre": "",
+    "center": "D",
+    "post": "!",
+    "translation": "d"
+  },
+  {
+    "index": "798'M",
+    "pre": "",
+    "center": "M",
+    "post": "!",
+    "translation": "m"
+  },
+  {
+    "index": "798'S",
+    "pre": "",
+    "center": "S",
+    "post": "!",
+    "translation": "s"
+  },
+  {
+    "index": "798'T",
+    "pre": "",
+    "center": "T",
+    "post": "!",
+    "translation": "t"
+  },
+  {
+    "index": "788'S",
+    "pre": "#",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "788'S",
+    "pre": ".",
+    "center": "S",
+    "post": "!",
+    "translation": "z"
+  },
+  {
+    "index": "899",
+    "pre": "",
+    "center": "",
+    "post": "",
+    "translation": ""
+  },
+  {
+    "index": " 899 ",
+    "pre": "",
+    "center": " ",
+    "post": "",
+    "translation": "|"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "PhonemeJs",
+  "version": "0.1.0",
+  "description": "Text to Phoneme converter",
+  "keywords": [ "phoneme", "phonetic", "text to speech" ],
+  "author": {
+    "name": "Lee Humphries",
+    "email": "lee@md8n.com"
+  },
+  "main": "./lib/app.js",
+  "bin": {
+    "phonemejs": "./bin/phonemejs"
+  },
+  "dependencies": { },
+  "engines": {
+    "node": "*"
+  }
+}
