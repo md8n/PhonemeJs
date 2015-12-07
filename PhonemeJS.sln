@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PhonemeStarter", "PhonemeStarter\PhonemeStarter.njsproj", "{B247CB90-A826-4F07-8143-316D52C8F1C8}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PhonemeJs", "PhonemeJs\PhonemeJs.njsproj", "{B247CB90-A826-4F07-8143-316D52C8F1C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
