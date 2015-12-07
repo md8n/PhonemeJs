@@ -2,38 +2,66 @@
 var fs = require('fs');
 var path = require('path');
 
+// Try to identify the correct phoneme to match a specific offset in the input word
+const parseForPhonemeDef = function (input, offset, program)
+{
+    // Get the initial character to be examined
+    var testChar = input[offset];
+    var preTest = input.substr(0, offset);
+
+    const matchingDefs = program.phnmDefs
+        .filter(function (p) { return p.index[0] === testChar; })
+        .filter(function (pc) {
+            // Test the center context
+            const pcc = pc.center;
+            const pcl = pcc.length;
+            return ((input.length - offset) > pcl) && pcc === input.substr(offset, pcl);
+        })
+        .filter(function (pr) {
+            // Test the pre context
+            const prx = new RegExp(pr.preRegex + "$");
+            return prx.test(preTest);
+        })
+        .filter(function (po) {
+            // Test the post context
+            const pox = new RegExp("^" + po.postRegex);
+            const postTest = input.substr(offset + po.center.length);
+            return pox.test(postTest);
+        });
+    if (!matchingDefs) return undefined;
+    
+    //if (matchingDefs.length === 1)
+    return matchingDefs[0];
+}
+
 function convertToPhoneme(program) {
     // Confirm there is something to do
-    var txtToConvert = program.text.trim();
+    const txtToConvert = program.text.trim();
     if (!txtToConvert) {
         console.log("No text to convert");
         return undefined;
-    } else {
-        //console.log("Converting: '" + txtToConvert + "'");
-    }
-    
-    //console.log("Locale: '" + program.locale + "'");
+    } 
 
     // Ensure that the Rules have been applied to the Defs
-    var isDefsPrepared = program.phnmDefs.some(function(def) {
+    const isDefsPrepared = program.phnmDefs.some(function(def) {
         return def.preRegex || def.postRegex;
     });
-    
-    function getPhonemeFilterRule(ruleChar) {
-        var rules = program.phnmRules.filter(function(rule) {
-            return rule.context === ruleChar;
-        });
 
-        return rules.length === 0 ? ruleChar : rules[0].regex;
-    }
-    
     if (!isDefsPrepared) {
         // Reprocess the phoneme definitions to rebuild the index and the pre and post regex values
         // and clean everything else at the same time
+
+        function getPhonemeFilterRule(ruleChar) {
+            const rules = program.phnmRules.filter(function(rule) {
+                return rule.context === ruleChar;
+            });
+            return rules.length === 0 ? ruleChar : rules[0].regex;
+        }
+    
         program.phnmDefs.map(function (def) {
-            var c = def.center || "";
-            var pre = def.pre || "";
-            var post = def.post || "";
+            const c = def.center || "";
+            const pre = def.pre || "";
+            const post = def.post || "";
 
             def.center = c;
             def.translation = def.translation || "";
@@ -46,52 +74,23 @@ function convertToPhoneme(program) {
             return def;
         });
     }
-
-    var words = txtToConvert.split(/\s+/).map(function (w) { return " " + w.toUpperCase() + " " });
-
-    //console.log("Words: " + words);
-
-    function parseForPhonemeDef(input, offset)
-    {
-        // Get the initial character to be examined
-        var testChar = input[offset];
-        var preTest = input.substr(0, offset);
-        
-        var matchingDefs = program.phnmDefs
-            .filter(function(p) { return p.index[0] === testChar; })
-            .filter(function(pc) {
-                // Test the center context
-                var pcc = pc.center;
-                var pcl = pcc.length;
-                return ((input.length - offset) > pcl) && pcc === input.substr(offset, pcl);
-            })
-            .filter(function(pr) {
-                // Test the pre context
-                var prx = new RegExp(pr.preRegex + "$");
-                return prx.test(preTest);
-            })
-            .filter(function(po) {
-                // Test the post context
-                var pox = new RegExp("^" + po.postRegex);
-                var postTest = input.substr(offset + po.center.length);
-                return pox.test(postTest);
-            });
-        
-        if (!matchingDefs) return undefined;
-
-        //if (matchingDefs.length === 1)
-            return matchingDefs[0];
-    }
     
-
+    // Split the supplied text
+    const words = txtToConvert.split(/\s+/).map(function (w) { return " " + w.toUpperCase() + " " });
+    
+    // Convert it to an array of phonemes
     program.phonemes = [].concat.apply([], words.map(function(w, index) {
-        var phnms = [];
+        const phnms = [];
+
         if (index) {
             // Invoke a special phoneme rule to insert an or bar '|' as a word divider
-            phnms.push(parseForPhonemeDef("   ", 1));
+            phnms.push(parseForPhonemeDef("   ", 1, program));
         }
+
+        // ReSharper disable once VariableCanBeMadeLet
         for (var ix = 1; ix < w.length - 1; ix++) {
-            var phoneme = parseForPhonemeDef(w, ix);
+            // ReSharper disable once VariableCanBeMadeConst
+            var phoneme = parseForPhonemeDef(w, ix, program);
             if (!!phoneme) {
                 phnms.push(phoneme);
                 ix += phoneme.center.length - 1;
@@ -100,7 +99,8 @@ function convertToPhoneme(program) {
 
         return phnms;
     }));
-
+    
+    // Return the whole thing
     return program;
 }
 

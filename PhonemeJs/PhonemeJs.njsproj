@@ -33,7 +33,9 @@
   <ItemGroup>
     <Compile Include="src\bin\phoneme" />
     <Compile Include="src\lib\phoneme.js" />
-    <Content Include="README.md" />
+    <Content Include="README.md">
+      <Publish>False</Publish>
+    </Content>
     <Content Include="src\lib\phonemeDefs\phonemeRulesen-gb.json" />
     <Content Include="src\lib\phonemeDefs\phonemeRulesen-us.json">
       <Publish>True</Publish>
@@ -45,7 +47,9 @@
       <Publish>True</Publish>
     </Content>
     <Content Include="src\package.json" />
-    <Content Include="src\README.md" />
+    <Content Include="src\README.md">
+      <Publish>True</Publish>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="src\lib\phonemeDefs\" />
