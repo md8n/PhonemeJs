@@ -1,0 +1,58 @@
+﻿[
+  {
+    "context": "!",
+    "title": "Non Alphabetic",
+    "regex": "[^A-Z]"
+  },
+  {
+    "context": "%",
+    "title": "Vowel",
+    "regex": "[AEIOU]"
+  },
+  {
+    "context": "#",
+    "title": "Vowel Sequence",
+    "regex": "[AEIOU]+"
+  },
+  {
+    "context": "+",
+    "title": "FrontVowels",
+    "regex": "[EIY]"
+  },
+  {
+    "context": "^",
+    "title": "Consonant",
+    "regex": "[BCDFGHJKLMNPQRSTVWXZ]"
+  },
+  {
+    "context": ":",
+    "title": "Consonant Sequence",
+    "regex": "[BCDFGHJKLMNPQRSTVWXZ]+"
+  },
+  {
+    "context": ".",
+    "title": "Voiced Consonant",
+    "regex": "[BDGJLMNRVWZ]"
+  },
+  {
+    "context": "$",
+    "title": "Word Ending",
+    "regex": "(ING|ELY|ED|ER|ES|E)"
+  },
+  {
+    "context": "&",
+    "title": "Sibilant",
+    "regex": "(CH|SH|TH|C|G|J|S|X|Z)"
+  },
+  {
+    "context": "@",
+    "title": "U Rule Consonant",
+    "regex": "(CH|SH|TH|D|J|L|N|R|S|T|Z)"
+  },
+  {
+    "context": "",
+    "title": "Any",
+    "not": false,
+    "tokens": ""
+  }
+]

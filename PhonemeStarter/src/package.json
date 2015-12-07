@@ -1,18 +1,21 @@
 {
-  "name": "PhonemeJs",
+  "name": "phoneme",
   "version": "0.1.0",
   "description": "Text to Phoneme converter",
-  "keywords": [ "phoneme", "phonetic", "text to speech" ],
+  "keywords": [ "phoneme", "phonetic", "text to speech", "text to phoneme", "soundEx", "sounds like" ],
   "author": {
     "name": "Lee Humphries",
     "email": "lee@md8n.com"
   },
-  "main": "./lib/app.js",
+  "main": "./lib/phoneme.js",
   "bin": {
-    "phonemejs": "./bin/phonemejs"
+    "phoneme": "./bin/phoneme"
   },
+  "directories": {"lib": ".lib"},
   "dependencies": { },
   "engines": {
-    "node": "*"
-  }
+    "node": ">= 4.2.3"
+  },
+  "license": "Apache-2.0",
+  "files": [ "../content/phonemeDefs/phonemeRulesen.json", "../content/phonemeDefs/phonemesen-gb.json", "../content/phonemeDefs/phonemesen-us.json" ]
 }

@@ -1,14 +1,14 @@
-﻿PhonemeJS
-==========
+﻿Phoneme
+=======
 
 A simple Text to Phoneme library.
 
-PhonemeJS supports any locale, accent, or language you want.  All you need to do is craft up a phoneme definitions list, and a supporting set of phoneme rules.
-PhonemeJS comes with some sample rules for English (UK and US).  You can either modify these or create your own.
+Phoneme supports any locale, accent, or language you want.  All you need to do is craft up a phoneme definitions list, and a supporting set of phoneme rules.
+Phoneme comes with some sample rules for English (UK and US).  You can either modify these or create your own.
 
-PhonemeJS only translates individual words.  
+Phoneme only translates individual words.  
 The sample rules included only 'recognise' alphabetic characters and the apostrophe.  They specifically do not 'recognise' numbers or other special characters.
-To get PhonemeJS to work with numbers, etc. it is strongly recommended that any non-alphabetic characters to be recognised are converted to actual text first before being presented to the PhonemeJS library.  
+To get Phoneme to work with numbers, etc. it is strongly recommended that any non-alphabetic characters to be recognised are converted to actual text first before being presented to the Phoneme library.  
 
 For example, the number 1,234 could be translated to:
 
@@ -47,7 +47,7 @@ A phoneme rule definition is structured as follows:
 * `Regex`: The implementation of the Context as a Regular Expression match.
 
 *Important:* Do NOT include any Regular Expression Anchor clauses in the phoneme rule Regex member.  
-PhonemeJS uses Anchors itself to ensure correct application of the PreRegex and PostRegex filters.
+Phoneme uses Anchors itself to ensure correct application of the PreRegex and PostRegex filters.
 
 Example:
 Assuming the following phoneme rules:

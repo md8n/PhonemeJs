@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b247cb90-a826-4f07-8143-316d52c8f1c8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>src\lib\phonemejs.js</StartupFile>
+    <StartupFile>src\lib\phoneme.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -30,17 +30,23 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="src\bin\phonemejs" />
-    <Compile Include="src\lib\phonemejs.js" />
-    <Content Include="content\phonemeDefs\phonemeRulesen.json" />
-    <Content Include="content\phonemeDefs\phonemesen-gb.json" />
-    <Content Include="content\phonemeDefs\phonemesen-us.json" />
+    <Compile Include="src\bin\phoneme" />
+    <Compile Include="src\lib\phoneme.js" />
+    <Content Include="src\lib\phonemeDefs\phonemeRulesen-gb.json" />
+    <Content Include="src\lib\phonemeDefs\phonemeRulesen-us.json">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="src\lib\phonemeDefs\phonemesen-gb.json">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="src\lib\phonemeDefs\phonemesen-us.json">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="src\package.json" />
     <Content Include="src\README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="content\" />
-    <Folder Include="content\phonemeDefs\" />
+    <Folder Include="src\lib\phonemeDefs\" />
     <Folder Include="src\" />
     <Folder Include="src\lib\" />
     <Folder Include="src\bin\" />
