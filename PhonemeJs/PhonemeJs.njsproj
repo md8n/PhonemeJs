@@ -33,6 +33,7 @@
   <ItemGroup>
     <Compile Include="src\bin\phoneme" />
     <Compile Include="src\lib\phoneme.js" />
+    <Content Include="README.md" />
     <Content Include="src\lib\phonemeDefs\phonemeRulesen-gb.json" />
     <Content Include="src\lib\phonemeDefs\phonemeRulesen-us.json">
       <Publish>True</Publish>
@@ -51,6 +52,7 @@
     <Folder Include="src\" />
     <Folder Include="src\lib\" />
     <Folder Include="src\bin\" />
+    <Folder Include="src\test\" />
   </ItemGroup>
   <!-- Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them. -->
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="False" />

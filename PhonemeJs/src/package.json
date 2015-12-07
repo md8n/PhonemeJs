@@ -11,11 +11,24 @@
   "bin": {
     "phoneme": "./bin/phoneme"
   },
-  "directories": {"lib": ".lib"},
-  "dependencies": { },
-  "engines": {
-    "node": ">= 4.2.3"
+  "directories": {
+    "lib": ".lib",
+    "test": "test"
   },
+  "dependencies": {
+    "commander": ">= 2.9.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "engines": {
+    "node": "4.2.x"
+  },
+  "repository": {},
   "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/md8n/PhonemeJs/issues"
+  },
+  "homepage": "https://github.com/md8n/PhonemeJs",
   "files": [ "../content/phonemeDefs/phonemeRulesen.json", "../content/phonemeDefs/phonemesen-gb.json", "../content/phonemeDefs/phonemesen-us.json" ]
 }
